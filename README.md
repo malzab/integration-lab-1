@@ -1,5 +1,7 @@
 # Laboratorium 1: Git, GitHub i przygotowanie środowiska Django
+
 ZMIANA LOKALNA
+
 **Cel: Opanowanie systemu kontroli wersji Git, platformy GitHub oraz przygotowanie lokalnego środowiska programistycznego dla wybranego frameworka (np. Django, React, itp.). Szczególny nacisk położono na poprawne dokumentowanie pracy przy użyciu Markdown oraz konfigurację bezpiecznego dostępu przez SSH. Przed rozpoczęciem zapoznaj się z listą wymaganych kont w pliku before_you_start.md.**
 
 * Realizacja wszystkich punktów (1-6) instrukcji.
